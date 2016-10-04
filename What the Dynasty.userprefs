@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Objects\createObject.cs">
+    <Files>
+      <File FileName="..\ACG - 0.01\Assets\Scripts\Objects\Card.cs" Line="90" Column="34" />
+      <File FileName="Assets\Scripts\Objects\Event.cs" Line="13" Column="26" />
+      <File FileName="Assets\Scripts\Objects\Person.cs" Line="20" Column="84" />
+      <File FileName="Assets\Cards\People\Person_01.txt" Line="1" Column="18" NotebookId="1" />
+      <File FileName="Assets\Cards\Events\Event_01.txt" Line="1" Column="32" NotebookId="1" />
+      <File FileName="Assets\Scripts\Reader\readAllCards.cs" Line="29" Column="4" NotebookId="1" />
+      <File FileName="Assets\Scripts\Objects\createObject.cs" Line="52" Column="35" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

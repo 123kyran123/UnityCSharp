@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A8B5B35A-5B60-0383-1896-1DA7418074CF}") = "What the Dynasty", "Assembly-CSharp.csproj", "{6F6FC4C1-6686-3CFD-5151-4D64B25B96A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F6FC4C1-6686-3CFD-5151-4D64B25B96A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6FC4C1-6686-3CFD-5151-4D64B25B96A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6FC4C1-6686-3CFD-5151-4D64B25B96A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6FC4C1-6686-3CFD-5151-4D64B25B96A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

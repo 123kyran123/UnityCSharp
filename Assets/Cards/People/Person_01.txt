@@ -1,0 +1,3 @@
+Name="Abe the Ape"
+img_loc=""
+Opinion_modifier=0

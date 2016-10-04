@@ -1,0 +1,16 @@
+name=""
+Description=""
+Person_id=01
+
+Awnser_01={
+	Description=""
+	Effect={
+		Money=10
+	}
+}
+Awnser_02={
+	Description=""
+	Effect={
+		Money=-10
+	}
+}
